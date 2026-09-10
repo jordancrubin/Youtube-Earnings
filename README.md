@@ -196,4 +196,8 @@ The AP SSID, password, and mDNS name are defined at the top of `src/main.cpp`
 > until you save a WiFi config, and it does not fetch stats while in this mode.
 
 ## License
-MIT
+GPL-3.0 — see [LICENSE](LICENSE).
+
+*Note: the 3D printed stand linked above is a separate model hosted on
+MakerWorld under its own (non-commercial) terms; it is not part of this
+repository's license.*
