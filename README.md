@@ -43,6 +43,20 @@ Check out the channel: https://www.youtube.com/@rubin-tech
   LOW). Hold 5 s to enter OTA/web-update mode; a single press wakes the device
   from deep sleep.
 
+### 3D Printed Stand
+
+The display can be mounted in a 3D printed case with an adjustable swivel
+stand:
+
+- **Model:** [Waveshare E-paper display 4.2in Adjustable stand](https://makerworld.com/en/models/2326496-waveshare-e-paper-display-4-2in-adjustable-stand) by [delorean1](https://makerworld.com/en/users/delorean1) on MakerWorld
+
+The case includes:
+- An adjustable swivel mount for the 4.2" e-paper display, with a compression
+  fitting to lock the tilt position.
+- Storage at the base for the ESP32 and other accessories.
+- Cooling holes and a charging port cutout.
+- A choice of two center boxes: one with two button fittings and one without.
+
 ## Setup Guide
 
 ### 1. Prerequisites
