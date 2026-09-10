@@ -1,0 +1,42 @@
+{
+  "wifi": {
+    "ssid": "YOUR_WIFI_SSID",
+    "password": "YOUR_WIFI_PASSWORD"
+  },
+  "channels": [
+    {
+      "CHANNEL": "Example Channel Name 1",
+      "CLIENTID": "YOUR_GOOGLE_CLIENT_ID.apps.googleusercontent.com",
+      "CLIENTSECRET": "YOUR_GOOGLE_CLIENT_SECRET",
+      "REFRESHTOKEN": "YOUR_GOOGLE_REFRESH_TOKEN",
+      "LISTING": {
+        "EXAMPLE_VIDEO_1": {
+          "ID": "VIDEO_ID_HERE",
+          "COST": "100.00"
+        },
+        "EXAMPLE_VIDEO_2": {
+          "ID": "VIDEO_ID_HERE",
+          "COST": "500.00",
+          "OUTPUT": "percentage"
+        },
+        "EXAMPLE_GROUP": {
+          "ID": "GROUP_ID_HERE",
+          "TYPE": "group",
+          "COST": "1000.00"
+        }
+      }
+    },
+    {
+      "CHANNEL": "Example Channel Name 2",
+      "CLIENTID": "YOUR_GOOGLE_CLIENT_ID.apps.googleusercontent.com",
+      "CLIENTSECRET": "YOUR_GOOGLE_CLIENT_SECRET",
+      "REFRESHTOKEN": "YOUR_GOOGLE_REFRESH_TOKEN",
+      "LISTING": {
+        "ANOTHER_VIDEO": {
+          "ID": "VIDEO_ID_HERE",
+          "COST": "250.00"
+        }
+      }
+    }
+  ]
+}
